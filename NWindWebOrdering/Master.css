@@ -1,0 +1,63 @@
+﻿@import url(http://fonts.googleapis.com/css?family=Dosis);
+
+@import url(http://fonts.googleapis.com/css?family=Contrail+One|Krona+One|Didact+Gothic);
+
+/*  font-family: 'Krona One', sans-serif;
+    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'Contrail One', cursive;
+    */
+body {
+    margin: 0;
+    min-width: 1280px;
+    padding: 0;
+    width: 100%;
+}
+
+    /* Panel located on the left of screen. Floated and left, and at fixed position. Won't budge with vertical scroll. */
+    body .navPanel {
+        height: 100%;
+        left: 0;
+        top: 0;
+        margin: 0;
+        position: fixed;
+        width: 15em;
+    }
+
+.navPanel .navPnl {
+    background-color: #ffff99;
+    border-style: inset;
+    border-width: 1px;
+    min-height: 100%;
+    padding: 5px;
+    width: 100%;
+
+}
+
+    .navPanel .navPnl .imgLogo {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .navPanel .navPnl h2 {
+        font-family: 'Krona One', sans-serif;
+        font-size: inherit;
+        float: none !important;
+        text-align: center;
+    }
+
+    /* Everything on the right side of the screen */
+
+        body .body {
+    margin-left: 16em;
+    margin-right: 2px;
+}
+
+header {
+    background-color: #676767;
+    border-style: inset;
+    border-width: 1px;
+    height: 200px;
+    margin-bottom: 25px;
+    width: 100%;
+}

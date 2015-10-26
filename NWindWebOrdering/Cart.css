@@ -1,0 +1,63 @@
+﻿@import url(http://fonts.googleapis.com/css?family=Contrail+One|Krona+One|Didact+Gothic);
+
+/*  font-family: 'Krona One', sans-serif;
+    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'Contrail One', cursive;
+    */
+
+.ContentPanel {
+    height: 502px;
+    margin-top: 4%;
+    width: 100%;
+}
+
+    .ContentPanel .h1 {
+        font-family: 'Krona One', sans-serif;
+        position: relative;
+        height: 21px;
+        top: 20px;
+        width: 42px;
+    }
+
+    .ProductPanel {
+        position: relative;
+        margin: 0 0 10px 30px;
+        width: 600px;
+        height: 30px !important;
+    }
+        .ProductPanel:first-of-type {
+            margin-top: 30px;
+        }
+        .ProductPanel:nth-of-type(2n+1) {
+            background-color: #eee;
+        }
+
+    .lName {
+        font-family: 'Didact Gothic', sans-serif;
+        display: block;
+        position: absolute;
+        left: 10px;
+        z-index: 1;
+        height: 21px;
+        width: 300px;
+    }
+
+    .lPrice {
+        font-family: 'Didact Gothic', sans-serif;
+        display: block;
+        position: absolute;
+        height: 21px;
+        z-index: 1;
+        left: 350px;
+        width: 300px;
+    }
+
+    .lQuant {
+        font-family: 'Didact Gothic', sans-serif;
+        display: block;
+        height: 21px;
+        z-index: 1;
+        position: absolute;
+        left: 470px;
+        width: 100px;
+    }

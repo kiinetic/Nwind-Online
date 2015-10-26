@@ -1,0 +1,84 @@
+﻿
+body 
+{     
+    margin: 0 auto;
+    min-width: 1350px;
+    max-width: 1600px;   
+    background: rgba(41,41,41,1);
+    background: -moz-linear-gradient(left, rgba(41,41,41,1) 0%, rgba(66,66,66,1) 50%, rgba(41,41,41,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(41,41,41,1)), color-stop(50%, rgba(66,66,66,1)), color-stop(100%, rgba(41,41,41,1)));
+    background: -webkit-linear-gradient(left, rgba(41,41,41,1) 0%, rgba(66,66,66,1) 50%, rgba(41,41,41,1) 100%);
+    background: -o-linear-gradient(left, rgba(41,41,41,1) 0%, rgba(66,66,66,1) 50%, rgba(41,41,41,1) 100%);
+    background: -ms-linear-gradient(left, rgba(41,41,41,1) 0%, rgba(66,66,66,1) 50%, rgba(41,41,41,1) 100%);
+    background: linear-gradient(to right, rgba(41,41,41,1) 0%, rgba(66,66,66,1) 50%, rgba(41,41,41,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#292929', endColorstr='#292929', GradientType=1 );
+    font-family: Corbel;
+}
+
+#container 
+{
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgba(199,218,212, 0.3);
+    padding-bottom: 60%;
+    border-radius: 5px 5px 5px 5px;
+    -moz-border-radius: 5px 5px 5px 5px;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border: 1px solid black;
+}
+
+h1 
+{
+    letter-spacing: 2px;
+    font-size: 3.0em;
+    text-decoration: underline;
+}
+
+h2 
+{
+    text-decoration: underline;
+}
+
+#welcome  
+{    
+    color: white;
+    text-align: center;
+}
+
+#order_history 
+{
+    float:left;
+    color: white;
+    width:55%;
+    margin-left: 50px;
+    text-decoration: underline;
+    font-size: 1.2em;
+}
+
+#order_history h2 
+{
+    text-align: center;
+}
+
+
+#change_password
+{
+    text-align:center;
+    float:right;
+    width:39%;
+    color: white;    
+}
+
+.cells 
+{
+    text-align: center;
+}
+
+#new_order 
+{
+    text-align:center;
+    float:right;
+    width: 30%;
+    color: white;
+    margin-top: 100px;
+}

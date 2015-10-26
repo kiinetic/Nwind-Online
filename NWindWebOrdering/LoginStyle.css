@@ -1,0 +1,23 @@
+﻿
+
+body {
+    background: rgba(41,41,41,1);
+    background: -moz-linear-gradient(left, rgba(41,41,41,1) 0%, rgba(66,66,66,1) 50%, rgba(41,41,41,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(41,41,41,1)), color-stop(50%, rgba(66,66,66,1)), color-stop(100%, rgba(41,41,41,1)));
+    background: -webkit-linear-gradient(left, rgba(41,41,41,1) 0%, rgba(66,66,66,1) 50%, rgba(41,41,41,1) 100%);
+    background: -o-linear-gradient(left, rgba(41,41,41,1) 0%, rgba(66,66,66,1) 50%, rgba(41,41,41,1) 100%);
+    background: -ms-linear-gradient(left, rgba(41,41,41,1) 0%, rgba(66,66,66,1) 50%, rgba(41,41,41,1) 100%);
+    background: linear-gradient(to right, rgba(41,41,41,1) 0%, rgba(66,66,66,1) 50%, rgba(41,41,41,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#292929', endColorstr='#292929', GradientType=1 );
+}
+
+
+.login {
+    width: 600px;
+    height: 375px;
+
+    -webkit-box-shadow: 0px 0px 15px 4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 15px 4px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 15px 4px rgba(0,0,0,0.75);
+    border: 1px solid black;
+}
