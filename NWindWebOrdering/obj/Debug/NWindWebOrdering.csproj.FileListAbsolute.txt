@@ -302,3 +302,14 @@ F:\College\2nd Year - Second Semester\NWindOnLine March26 Beta2\NWindWebOrdering
 F:\College\2nd Year - Second Semester\NWindOnLine March26 Beta2\NWindWebOrdering\obj\Debug\NWindWebOrdering.csproj.GenerateResource.Cache
 F:\College\2nd Year - Second Semester\NWindOnLine March26 Beta2\NWindWebOrdering\obj\Debug\NWindWebOrdering.dll
 F:\College\2nd Year - Second Semester\NWindOnLine March26 Beta2\NWindWebOrdering\obj\Debug\NWindWebOrdering.pdb
+F:\College\2nd Year - Second Semester\Nwind Online\NWindWebOrdering\bin\NWindWebOrdering.dll
+F:\College\2nd Year - Second Semester\Nwind Online\NWindWebOrdering\bin\NWindWebOrdering.pdb
+F:\College\2nd Year - Second Semester\Nwind Online\NWindWebOrdering\bin\NorthWindBusinessLayer.dll
+F:\College\2nd Year - Second Semester\Nwind Online\NWindWebOrdering\bin\DBLoveleenJames.dll
+F:\College\2nd Year - Second Semester\Nwind Online\NWindWebOrdering\bin\NorthWindBusinessLayer.pdb
+F:\College\2nd Year - Second Semester\Nwind Online\NWindWebOrdering\bin\DBLoveleenJames.pdb
+F:\College\2nd Year - Second Semester\Nwind Online\NWindWebOrdering\obj\Debug\NWindWebOrdering.csprojResolveAssemblyReference.cache
+F:\College\2nd Year - Second Semester\Nwind Online\NWindWebOrdering\obj\Debug\NWindWebOrdering.Properties.Resources.resources
+F:\College\2nd Year - Second Semester\Nwind Online\NWindWebOrdering\obj\Debug\NWindWebOrdering.csproj.GenerateResource.Cache
+F:\College\2nd Year - Second Semester\Nwind Online\NWindWebOrdering\obj\Debug\NWindWebOrdering.dll
+F:\College\2nd Year - Second Semester\Nwind Online\NWindWebOrdering\obj\Debug\NWindWebOrdering.pdb

@@ -61,3 +61,8 @@ F:\College\2nd Year - Second Semester\NWindOnLine March26 Beta2\DBLoveleenJames\
 F:\College\2nd Year - Second Semester\NWindOnLine March26 Beta2\DBLoveleenJames\obj\Debug\DBLoveleenJames.csprojResolveAssemblyReference.cache
 F:\College\2nd Year - Second Semester\NWindOnLine March26 Beta2\DBLoveleenJames\obj\Debug\DBLoveleenJames.dll
 F:\College\2nd Year - Second Semester\NWindOnLine March26 Beta2\DBLoveleenJames\obj\Debug\DBLoveleenJames.pdb
+F:\College\2nd Year - Second Semester\Nwind Online\DBLoveleenJames\bin\Debug\DBLoveleenJames.dll
+F:\College\2nd Year - Second Semester\Nwind Online\DBLoveleenJames\bin\Debug\DBLoveleenJames.pdb
+F:\College\2nd Year - Second Semester\Nwind Online\DBLoveleenJames\obj\Debug\DBLoveleenJames.csprojResolveAssemblyReference.cache
+F:\College\2nd Year - Second Semester\Nwind Online\DBLoveleenJames\obj\Debug\DBLoveleenJames.dll
+F:\College\2nd Year - Second Semester\Nwind Online\DBLoveleenJames\obj\Debug\DBLoveleenJames.pdb

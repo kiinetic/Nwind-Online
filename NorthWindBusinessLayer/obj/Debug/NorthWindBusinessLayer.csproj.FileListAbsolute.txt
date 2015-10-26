@@ -145,3 +145,10 @@ F:\College\2nd Year - Second Semester\NWindOnLine March26 Beta2\NorthWindBusines
 F:\College\2nd Year - Second Semester\NWindOnLine March26 Beta2\NorthWindBusinessLayer\obj\Debug\NorthWindBusinessLayer.csprojResolveAssemblyReference.cache
 F:\College\2nd Year - Second Semester\NWindOnLine March26 Beta2\NorthWindBusinessLayer\obj\Debug\NorthWindBusinessLayer.dll
 F:\College\2nd Year - Second Semester\NWindOnLine March26 Beta2\NorthWindBusinessLayer\obj\Debug\NorthWindBusinessLayer.pdb
+F:\College\2nd Year - Second Semester\Nwind Online\NorthWindBusinessLayer\bin\Debug\NorthWindBusinessLayer.dll
+F:\College\2nd Year - Second Semester\Nwind Online\NorthWindBusinessLayer\bin\Debug\NorthWindBusinessLayer.pdb
+F:\College\2nd Year - Second Semester\Nwind Online\NorthWindBusinessLayer\bin\Debug\DBLoveleenJames.dll
+F:\College\2nd Year - Second Semester\Nwind Online\NorthWindBusinessLayer\bin\Debug\DBLoveleenJames.pdb
+F:\College\2nd Year - Second Semester\Nwind Online\NorthWindBusinessLayer\obj\Debug\NorthWindBusinessLayer.csprojResolveAssemblyReference.cache
+F:\College\2nd Year - Second Semester\Nwind Online\NorthWindBusinessLayer\obj\Debug\NorthWindBusinessLayer.dll
+F:\College\2nd Year - Second Semester\Nwind Online\NorthWindBusinessLayer\obj\Debug\NorthWindBusinessLayer.pdb
